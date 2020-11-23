@@ -43,3 +43,9 @@ To add additional dependencies, for example other CDK libraries, add to the requ
 
 - `cdk synth` emits the synthesized CloudFormation template
 - `cdk docs` open CDK documentation
+
+## Related resources
+
+- [CDK Pipelines documentation](https://docs.aws.amazon.com/cdk/api/latest/docs/pipelines-readme.html)
+- [AWS Blog Post on CDK Pipelines](https://aws.amazon.com/blogs/developer/cdk-pipelines-continuous-delivery-for-aws-cdk-applications/)
+- [Official AWS Sample Project](https://github.com/aws-samples/cdk-pipelines-demo/tree/python)
