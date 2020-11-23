@@ -2,6 +2,8 @@
 
 This template creates a deployment pipeline and empty project using AWS CDK. Once the pipeline has been configured and deployed, it will deploy the app and any changes. This allows you to start using CDK with CI/CD capability built-in from the start.
 
+Note: The [CDK pipelines module](https://docs.aws.amazon.com/cdk/api/latest/docs/pipelines-readme.html) is still in 'developer preview', so breaking changes may be introduced by later versions.
+
 ## Getting started
 
 ### Configure the pipeline stack
