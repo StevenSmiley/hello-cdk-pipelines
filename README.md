@@ -27,7 +27,7 @@ $ cdk deploy --profile smiley-cdk
 
 ### Working on your local machine
 
-This project uses Python 3 and virtualenv. If needed, you can create the virtualenv:
+This project uses Python 3 and virtualenv.
 
 ```
 
